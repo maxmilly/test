@@ -1,33 +1,36 @@
-body {
-  background-color: #ECEEEF;
-  margin: 0 auto;
-}
+@media screen and (min-width: 1366px) {
+  body {
+    background-color: #ECEEEF;
+    margin: 0 auto;
+  }
 
-.container {
-  color: black;
-  margin: 0em 3.000em;
-}
+  .container {
+    color: black;
+    margin: 0em 3.000em;
+  }
 
-.header {
-  color: black;
-  background-color: white;
-  display: block;
-  margin: 0em auto;
-}
+  .header {
+    color: black;
+    background-color: white;
+    display: block;
+    margin: 0em auto;
+  }
 
-.profileIcon-container {
-  padding: 1.5em 2%;
-  display: block;
-  margin: 0em;
-}
+  .profileIcon-container {
+    padding: 1.5em 2%;
+    display: block;
+    margin: 0em;
+  }
 
-img.profileIcon {
-  display: block;
-  margin: 0px;
-  width: 2em;
-  border-radius: 10%;
-}
+  img.profileIcon {
+    display: block;
+    margin: 0px;
+    width: 2em;
+    border-radius: 10%;
+  }
 
-img.profileIcon:hover {
-  opacity: 0.33;
+  img.profileIcon:hover {
+    opacity: 0.33;
+  }
+
 }
