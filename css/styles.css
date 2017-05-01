@@ -2,26 +2,38 @@
 @media only screen
 and (min-device-width : 20.000em)
 and (max-device-width : 30.000em) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+    }
 }
 
 /* Smartphones (landscape) ----------- */
 @media only screen
 and (min-width : 20.063em) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+  }
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen
 and (max-width : 20.000em) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+  }
 }
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen
 and (min-device-width : 48.000em)
 and (max-device-width : 64.000em) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+    }
 }
 
 /* iPads (landscape) ----------- */
@@ -29,7 +41,10 @@ and (max-device-width : 64.000em) {
 and (min-device-width : 48.000em)
 and (max-device-width : 64.000em)
 and (orientation : landscape) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+  }
 }
 
 /* iPads (portrait) ----------- */
@@ -37,13 +52,15 @@ and (orientation : landscape) {
 and (min-device-width : 48.000em)
 and (max-device-width : 64.000em)
 and (orientation : portrait) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+}
 }
 
 /* Desktops and laptops ----------- */
 @media only screen
 and (min-width : 76.500em) {
-/* Styles */
 body {
   background-color: #ECEEEF;
   margin: 0 auto;
@@ -82,12 +99,18 @@ img.profileIcon:hover {
 /* Large screens ----------- */
 @media only screen
 and (min-width : 114.000em) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+    }
 }
 
 /* iPhone 4 ----------- */
 @media
 only screen and (-webkit-min-device-pixel-ratio : 1.5),
 only screen and (min-device-pixel-ratio : 1.5) {
-/* Styles */
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+    }
 }
