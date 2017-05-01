@@ -1,3 +1,4 @@
+@media screen and (min-width:1366)
 body {
   background-color: #ECEEEF;
   margin: 0 auto;
@@ -31,4 +32,5 @@ img.profileIcon {
 
 img.profileIcon:hover {
   opacity: 0.33;
+}
 }
