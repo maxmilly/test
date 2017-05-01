@@ -29,3 +29,7 @@ img.profileIcon {
 img.profileIcon:hover {
   opacity: 0.33;
 }
+
+.image-container {
+display: block;
+}
