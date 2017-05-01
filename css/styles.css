@@ -31,10 +31,13 @@ img.profileIcon:hover {
 }
 
 .image-container {
-  padding: 1.5em 2%;
+  padding-bottom: 0;
+  padding-left: 1.5em ;
+  padding-right: 1.5em ;
+  padding-top: -1em;
   display: block;
-  margin: 5em;
-  width: 30em;
+  margin: 5em auto;
+  width: 32em;
   border-radius: 0.5em;
   background-color: #F7F7F7;
 }
