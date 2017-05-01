@@ -1,0 +1,35 @@
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 76.500em) {
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+}
+
+.container {
+  margin: 0em 3.000em;
+}
+
+.header {
+  background-color: white;
+  display: block;
+  margin: 0em auto;
+}
+
+.profileIcon-container {
+  padding: 1.5em 2%;
+  display: block;
+  margin: 0em;
+}
+
+img.profileIcon {
+  display: block;
+  margin: 0px;
+  width: 2em;
+  border-radius: 10%;
+}
+
+img.profileIcon:hover {
+  opacity: 0.33;
+}
+}
