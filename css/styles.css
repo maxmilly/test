@@ -23,7 +23,7 @@ img.profileIcon {
   display: block;
   margin: 0px;
   width: 2em;
-  border-radius: 0.2em;
+  border-radius: 0.3em;
 }
 
 img.profileIcon:hover {
@@ -34,10 +34,16 @@ img.profileIcon:hover {
   padding-bottom: 0;
   padding-left: 1.5em ;
   padding-right: 1.5em ;
-  padding-top: -1em;
+  padding-top: 0em;
   display: block;
-  margin: 5em auto;
-  width: 32em;
+  margin: 4em auto;
+  width: 35em;
   border-radius: 0.5em;
   background-color: #F7F7F7;
+}
+
+.image1 {
+  padding: 0;
+  display: block;
+
 }
