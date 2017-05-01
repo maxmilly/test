@@ -17,6 +17,7 @@ body {
   padding: 1.5em 2%;
   display: block;
   margin: 0em;
+  width: 0;
 }
 
 img.profileIcon {
