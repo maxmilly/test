@@ -31,12 +31,9 @@ img.profileIcon:hover {
 }
 
 .image-container {
-display: block;
-
+  padding: 1.5em 2%;
+  display: block;
+  margin: 0px;
+  width: 30em;
+  border-radius: 10%;
 }
-
-
-<section>
-  <div class="image-container">
-    <img src="https://bytebucket.org/snippets/Maxmilly/LrBBk/raw/1a76a99704deb2f22e49e18f2d51ae8687d43f4f/AccountSettingsUI.svg" alt="SVG profile icon" </div>
-</section>
