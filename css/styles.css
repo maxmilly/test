@@ -1,7 +1,7 @@
 body {
   background-color: #ECEEEF;
   margin: 0 auto;
-  
+
 }
 
 .container {
@@ -47,4 +47,22 @@ img.profileIcon:hover {
 .image1 {
   padding: 0;
   display: block;
+}
+
+@-webkit-keyframes innerRipple {
+  0% { height: 0px; width: 0px; opacity: 1; }
+  95% { height: 200px; width: 200px; opacity: 0; }
+  100% { width: 0px; height: 0px; opacity: 0; }
+}
+
+@-webkit-keyframes ripple {
+  0% { height: 0px; width: 0px; opacity: 1; }
+  95% { height: 300px; width: 300px; opacity: 0; }
+  100% { width: 0px; height: 0px; opacity: 0; }
+}
+
+@-webkit-keyframes outerRipple {
+  0% { height: 0px; width: 0px; opacity: 1; }
+  95% { height: 340px; width: 340px; opacity: 0; }
+  100% { width: 0px; height: 0px; opacity: 0; }
 }
