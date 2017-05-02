@@ -14,3 +14,36 @@
     position: relative;
     top: 50%;
   }
+---------------------------
+
+.image-container {
+  padding-bottom: 0;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0em;
+  display: block;
+  margin: 3em auto;
+  width: 38em;
+  border-radius: 0.5em;
+  background-color: #F7F7F7;
+  position: relative;
+  top: 50%;
+  vertical-align: middle;
+}
+
+.image1 {
+  padding: 0;
+  display: block;
+}
+
+.profileIconnohover {
+  display: block;
+  margin: 0px;
+  width: 2em;
+  border-radius: 0.3em;
+  opacity: 0.33;
+}
+
+.defined-container {
+
+}
