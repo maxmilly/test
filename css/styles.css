@@ -57,4 +57,5 @@ img.profileIcon:hover {
   margin: 0px;
   width: 2em;
   border-radius: 0.3em;
+  opacity: 0.33;
 }
