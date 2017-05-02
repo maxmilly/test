@@ -1,2 +1,16 @@
 <a target="_blank" href="http://twitter.com/llIlllIllIllIlI">
   <img src="https://bytebucket.org/snippets/Maxmilly/8n9k6/raw/0ac0c14d3495714ecbc2ecf7d3047b726ec50273/max.svg" alt="SVG profile icon" class="profileIcon" </div></a>
+
+  .image-container {
+    padding-bottom: 0;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-top: 0em;
+    display: block;
+    margin: 5em auto;
+    width: 34.5em;
+    border-radius: 0.5em;
+    background-color: #F7F7F7;
+    position: relative;
+    top: 50%;
+  }
