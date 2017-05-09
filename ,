@@ -47,3 +47,100 @@
 .defined-container {
 
 }
+
+
+______________________
+body {
+  background-color: #ECEEEF;
+  margin: 0 auto;
+
+}
+
+.container {
+  margin: 0em 3.000em;
+}
+
+.header {
+  background-color: white;
+  display: block;
+  margin: 0em auto;
+}
+
+.profileIcon-container {
+  padding: 1.5em 2%;
+  display: block;
+  margin: 0em;
+  width: 0;
+}
+
+img.profileIcon {
+  display: block;
+  margin: 0px;
+  width: 2em;
+  border-radius: 0.3em;
+}
+
+img.profileIcon:hover {
+  opacity: 0.33;
+}
+
+.profileIconnohover {
+  display: block;
+  margin: 0px;
+  width: 2em;
+  border-radius: 0.3em;
+  opacity: 0.33;
+}
+
+/* Images */
+
+.image-container {
+  padding-bottom: 0;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0em;
+  width: 39.5em;
+  border-radius: 0.5em;
+  background-color: #F7F7F7;
+}
+
+
+.image1 {
+  padding: 0;
+  display: block;
+}
+
+
+.defined-container {
+  margin: 3em auto;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+
+/* Images */
+
+.image-container {
+  padding-bottom: 0;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+  padding-top: 0;
+  width: 46%;
+  border-radius: 1%;
+  background-color: #F7F7F7;
+}
+
+.image1 {
+  padding: 0;
+  display: block;
+}
+
+.defined-container {
+  margin: 3.5% auto;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+
+}

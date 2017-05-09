@@ -1,7 +1,11 @@
-body {
-  background-color: #ECEEEF;
-  margin: 0 auto;
 
+* {
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #E4E4E4;
+  margin: 0 auto;
 }
 
 .container {
@@ -15,7 +19,7 @@ body {
 }
 
 .profileIcon-container {
-  padding: 1.5em 2%;
+  padding: 2em 2%;
   display: block;
   margin: 0em;
   width: 0;
@@ -24,8 +28,7 @@ body {
 img.profileIcon {
   display: block;
   margin: 0px;
-  width: 2em;
-  border-radius: 0.3em;
+  width: 4em;
 }
 
 img.profileIcon:hover {
@@ -35,31 +38,13 @@ img.profileIcon:hover {
 .profileIconnohover {
   display: block;
   margin: 0px;
-  width: 2em;
-  border-radius: 0.3em;
-  opacity: 0.33;
-}
-/* Images */
-
-.image-container {
-  padding-bottom: 0;
-  padding-left: 1.5%;
-  padding-right: 1.5%;
-  padding-top: 0;
-  width: 46%;
-  border-radius: 1%;
-  background-color: #F7F7F7;
+  width: 4em;
 }
 
-.image1 {
-  padding: 0;
-  display: block;
-}
-
-.defined-container {
-  margin: 3.5% auto;
-  display: flex;
- justify-content: center;
- align-items: center;
-
-}
+<section>
+  <div class="defined-container">
+  <div class="image-container">
+    <div class="image1"><img src="https://bytebucket.org/snippets/Maxmilly/LrBBk/raw/1a76a99704deb2f22e49e18f2d51ae8687d43f4f/AccountSettingsUI.svg" alt="Account settings UI" class="image1" </div>
+    </div>
+    </div>
+</section>
