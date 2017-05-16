@@ -46,6 +46,15 @@ body {
   margin: 0 auto;
 }
 
+.profileIcon-container {
+  padding: 4.5em 0em;
+}
+
+.profileIconnohover {
+  width: 6.66em;
+  margin: 0 auto;
+}
+
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
 /* Styles */
