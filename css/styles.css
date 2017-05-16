@@ -41,6 +41,10 @@ img.profileIcon:hover {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
 }
+body {
+  background-color: pink;
+  margin: 0 auto;
+}
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
