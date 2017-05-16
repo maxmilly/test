@@ -88,6 +88,9 @@ iPad 3
 /* Large screens ----------- */
 @media only screen  and (min-width : 1824px) {
 /* Styles */
+body {
+  background-color: blue;
+}
 }
 
 /* iPhone 4 ----------- */
