@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+
+<head>
+  <title>Max✨</title>
+  <!--Meta-->
+  <meta charset="utf-8">
+  <meta name="description" content="Portfolio site" <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#">
+  <!-- Stylessheets-->
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.com/libraries/normalize">
+  <link rel="stylesheet" href="css/grid.css">
+  <link rel="stylesheet" href="css/mediaquery-reporter.css">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="icons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="icons/favicon-16x16.png" sizes="16x16">
+  <link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#b4b1f5">
+  <link rel="manifest" href="icons/manifest.json">
+  <!-- Sripts -->
+  </script>
+</head>
+<body>
+    <div class="header">
+      <div class="header-container">
+        <div class="profileIcon-container">
+            <img src="https://bytebucket.org/snippets/fayeandmax/BrMk8/raw/aa08d59c9d0124147aede52c169c7597953ac684/max.svg" alt="SVG profile icon" class="profileIconnohover" </div>
+        </div>
+      </div>
+        </div>
+      <div class= "cards">
+        <div class= "card">
+
+      </div>
+      </div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #E4E4E4;
+  margin: 0 auto;
+}
+
+.header-container {
+  margin: 0em 3.000em;
+}
+
+.header {
+  background-color: white;
+  display: block;
+  margin: 0em auto;
+}
+
+.profileIcon-container {
+  padding: 2em 2%;
+  display: block;
+  margin: 0em;
+  width: 0;
+}
+
+img.profileIcon {
+  display: block;
+  margin: 0px;
+  width: 4em;
+}
+
+img.profileIcon:hover {
+  opacity: 0.33;
+}
+
+.profileIconnohover {
+  display: block;
+  margin: 0px;
+  width: 4em;
+}
+
+/* ======================================
+
+    Fluid Grid System
+
+========================================= */
+.container {
+        margin: 0 40px;
+    }
+    .row {
+        margin-left: -3%;
+    }
+    [class*="span"] {
+        display: inline;
+        float: left;
+        margin-left: 3%;
+    }
+@media only screen and (min-width: 768px) {
+    .span-one-third {
+        width: 30%;
+    }
+}
+/* ======================================
+
+    Cards
+
+========================================= */
+.card {
+margin: 3.000em 3.000em;
+}
+
+.card {
+  width: 10em;
+  height:10em;
+  background-color: #F7F7F7;
+}
