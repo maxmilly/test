@@ -1,21 +1,13 @@
-
-* {
-
-}
+* {}
 
 body {
-  background-color: white;
+  background-color: #EDF3FB;
   margin: 0 auto;
 }
 
-.content {
-    width: 960px;
-    margin: 0 auto;
-}
-
-
 .profileIcon-container {
   padding: 4.5em 0em;
+  background-color: white;
 }
 
 .profileIconnohover {
@@ -23,7 +15,11 @@ body {
   margin: 0 auto;
 }
 
-------------------------
+.profileIcon {
+  width: 6.66em;
+  margin: 0 auto;
+}
+
 
 img.profileIcon {
   display: block;
@@ -31,6 +27,17 @@ img.profileIcon {
   width: 5em;
 }
 
-img.profileIcon:hover {
-  opacity: 0.33;
+.profileIcon:hover {
+  opacity: 0.50;
+}
+
+.pane{
+ background-color: #F6F9FD;
+ width: 25em;
+ height: 20em;
+}
+
+.pane-container{
+  padding: 4.5em 0em;
+  margin: 0 6.6em;
 }
